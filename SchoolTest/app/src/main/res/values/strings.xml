@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">School Test</string>
+
+    <string name="hello_world">Hello world! What are you lookin\' at?</string>
+    <string name="action_settings">Settings</string>
+</resources>
