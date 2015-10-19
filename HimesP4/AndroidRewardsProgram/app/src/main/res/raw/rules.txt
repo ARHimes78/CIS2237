@@ -1,0 +1,24 @@
+Android Frequent Flyer Rules:
+
+Enter your name and recent miles to the input fields of the opening screen.
+Touch the Check Status button.
+
+Review the status of your frequent flyer miles. Your total miles and status will be shown, which you should use to measure your quality as a person. If you’d like, touch the Redeem button to spend some of those miles, and be careful not to spend too many or else you’ll have a lot of flying to make up for.
+
+Your privileges for spending your miles in the Redeem Rewards screen depend on your status. See the conditions below. Notice that the more you have, the less you need to spend for seat upgrades. With a gold status, you’re finally able to afford not spending much on a seat upgrade.
+
+25,000 miles for Bronze status
+50,000 miles for Silver status
+75,000 miles for Gold status
+
+COSTS
+*****
+
+Bronze status:
+Seat upgrade: 15,000 miles, free miles under 1000: 25,000 miles.
+Silver status:
+Seat upgrade: 10,000 miles, free miles between 1000 and 2000: 50,000 miles.
+Gold status:
+Seat updgrade: 5,000 miles, free miles between 2000 and 3000: 75,000 miles.
+
+You may touch “back”, now.
