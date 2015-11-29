@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GroceryBag</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_add">Add Groceries</string>
+    <string name="menu_edit">Edit Groceries</string>
+    <string name="menu_delete">Delete Groceries</string>
+    <string name="title_activity_view_groceries">ViewGroceriesActivity</string>
+    <string name="title_activity_add_edit_groceries">AddEditGroceries</string>
+    <string name="hint_bread">Enter a type of bread</string>
+    <string name="hint_fruit">Enter a type of fruit</string>
+    <string name="hint_vegetable">Enter a type of vegetable</string>
+    <string name="hint_meat">Enter a type of meat</string>
+    <string name="hint_cheese">Enter a type of cheese</string>
+    <string name="title_bread">Bread </string>
+    <string name="title_fruit">Fruit </string>
+    <string name="title_vegetable">Vegetable </string>
+    <string name="title_meat">Meat </string>
+    <string name="title_cheese">Cheese </string>
+    <string name="button_save">Save Grocery Bag</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="alert_title">Confirm delete</string>
+    <string name="alert_message">Delete this bag-o-groceries?</string>
+    <string name="alert_yes">Yes</string>
+    <string name="alert_no">No</string>
+    <string name="alert_ok">Ok</string>
+    <string name="alert_title_warning">Empty fields</string>
+    <string name="alert_message_warning">Make sure to add text to all the fields!</string>
+</resources>
