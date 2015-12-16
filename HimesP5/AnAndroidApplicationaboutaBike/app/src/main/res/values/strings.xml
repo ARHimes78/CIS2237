@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">An Android Application about a Bike</string>
+    <string name="title_bikephotoitem_detail">BikePhotoItem Detail</string>
+    <string name="bike">This is a photo of a bike with a river in the background in a town.</string>
+    <string name="description_title">The bicycle picture</string>
+</resources>

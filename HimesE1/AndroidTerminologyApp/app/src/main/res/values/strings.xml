@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Terminology App</string>
+
+    <string name="definitions">Some Android Definitions</string>
+    <string name="action_settings">Settings</string>
+    <string name="widget">Widget: An item that can be added to an Android view (textview, button, etc.)</string>
+    <string name="manifest">Android Manifest: An XML file that contains settings for an Android application.</string>
+    <string name="resource">Resource: Data that can be accessed and referred to throughout an Android application\'s code: string values, IDs, layouts, and several other types.</string>
+</resources>

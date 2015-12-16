@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".TerminologyApp"
+    android:orientation="vertical"
+    android:background="#d8fbff">
+
+    <!--Spec said to set size to 30dp, but the text doesn't center at that setting.-->
+    <TextView android:text="@string/definitions" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/definitions"
+        android:layout_marginTop="40dp"
+        android:textSize="29dp"
+        android:textStyle="bold|italic"
+        android:textColor="#5bb8ff"
+        android:textIsSelectable="false"
+        android:layout_gravity="center_horizontal"
+        android:autoText="false" />
+
+    <TextView android:text="@string/widget"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/widget"
+        android:layout_marginTop="20dp"
+        android:textColor="#5bb8ff" />
+
+    <TextView android:text="@string/manifest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/manifest"
+        android:layout_marginTop="20dp"
+        android:textColor="#5bb8ff" />
+
+    <TextView android:text="@string/resource"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/resource"
+        android:layout_marginTop="20dp"
+        android:textColor="#5bb8ff" />
+
+</LinearLayout>

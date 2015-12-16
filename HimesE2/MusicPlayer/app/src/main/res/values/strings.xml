@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Music Player</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="marimba_song">Marimba Song</string>
+    <string name="merengue_song">Merengue Song</string>
+    <string name="play_marimba">Marimba</string>
+    <string name="play_merengue">PLAY MERENGUE</string>
+</resources>
